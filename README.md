@@ -17,7 +17,7 @@ Harry Potter Characters And Details
 - Retrofit
 - Moshi
 - Glide
-- 
+ 
 
 ## Screenshots
 
