@@ -1,7 +1,7 @@
 
 # INTERNET CONNECTION (MVVM)
 
-Internet Connection using MVVM
+Internet Connection using Retrofit
 
 Harry Potter Characters And Details
 
