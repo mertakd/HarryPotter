@@ -21,7 +21,7 @@ Harry Potter Characters And Details
 
 ## Screenshots
 
-![App Screenshot](C:\Users\MERT\Documents\YAZILIMPROJELER\Android_12_Bootcamp_Canli_Dersler\ikinciTur\InternetHarryPotter\app\src\main\java\com\androiddev\internetharrypotter\images\Screenshot_20220302-160404.png)
+![App Screenshot](Screenshot_20220302-160404.png)
 
 
 
